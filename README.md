@@ -1,6 +1,6 @@
 # Bengali-Literature-Data-Collection
 ### Description:
-This repository currently contains bengali text [data](https://github.com/Shayokh144/Bengali-Literature-Data-Collection/blob/master/StoryCollectionRabindranathTagore.zip) (scrapped from : [bn.wikisource.org](https://bn.wikisource.org//wiki/%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%9A%E0%A7%8D%E0%A6%9B/)) of selected [Rabindranath Tagore's](https://en.wikipedia.org/wiki/Rabindranath_Tagore) short stories(total 87 stories included here). Before using this you need to clean a bit because some of the files contains garbage texts.
+This repository currently contains bengali text [data](https://github.com/Shayokh144/Bengali-Literature-Data-Collection/blob/master/StoryCollectionRabindranathTagore.zip) (scrapped from : [bn.wikisource.org](https://bn.wikisource.org/wiki/%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%97%E0%A7%81%E0%A6%9A%E0%A7%8D%E0%A6%9B)) of selected [Rabindranath Tagore's](https://en.wikipedia.org/wiki/Rabindranath_Tagore) short stories(total 87 stories included here). Before using this you need to clean a bit because some of the files contains garbage texts.
 
 ### Usage:
 Can be used in various NLP problems like Sequence Modeling.
